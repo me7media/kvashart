@@ -1,0 +1,27 @@
+
+    body
+    {
+        margin: 0; 
+        padding: 0
+    }
+
+    img
+    {
+        display: block;
+		text-align: center;
+    }
+
+    table
+    {
+        border-collapse: collapse;
+    }
+
+    table td
+    {
+        padding: 3px 4px;
+    }
+
+    table th
+    {
+        padding: 3px 4px;
+    }
