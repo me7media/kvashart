@@ -1,0 +1,46 @@
+---
+To: my-email-for-site-messages@gmail.com
+Subject: Сообщение с сайта компании
+Message: Email пользователя: sakkarem@gmail.com<br>Текст сообщения: Тест тест тест
+Headers: 
+Files: Array
+(
+)
+
+Priority: 3---
+To: my-email-for-site-messages@gmail.com
+Subject: Сообщение с сайта компании
+Message: Email пользователя: sakkarem@gmail.com<br>Текст сообщения: Тест тест тест
+Headers: 
+Files: Array
+(
+)
+
+Priority: 3---
+To: my-email-for-site-messages@gmail.com
+Subject: Сообщение с сайта компании
+Message: Email пользователя: sakkarem@gmail.com<br>Текст сообщения: Тест тест тест
+Headers: 
+Files: Array
+(
+)
+
+Priority: 3---
+To: my-email-for-site-messages@gmail.com
+Subject: Сообщение с сайта компании
+Message: Email пользователя: sakkarem@gmail.com<br>Текст сообщения: Тест тест тест
+Headers: 
+Files: Array
+(
+)
+
+Priority: 3---
+To: my-email-for-site-messages@gmail.com
+Subject: Сообщение с сайта компании
+Message: Email пользователя: sakkarem@gmail.com<br>Текст сообщения: sfd sf
+Headers: 
+Files: Array
+(
+)
+
+Priority: 3
